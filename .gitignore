@@ -1,0 +1,5 @@
+compile.sh
+deploy.sh
+device_id
+verify.sh
+output/*
